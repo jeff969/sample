@@ -1,0 +1,138 @@
+#title {
+  /*background-image: url('https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif');*/
+  background-size: cover;
+  background-color: #bae5e5;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar-brand {
+  margin: 20px;
+}
+
+.nav-item {
+  margin: 20px;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.myname {
+  color: #f5a7a7;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.heading {
+  margin: 100px;
+  text-align: center;
+  margin: 200px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.about-heading {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding: 40px;
+}
+#About{
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+.feature-title{
+  font-size: 1.5rem;
+}
+.feature-box{
+  text-align:center;
+  padding:5%;
+}
+.icon{
+  color: #4cd3c2;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color:#ff4c68;
+}
+
+.my-image{
+  position:relative;
+  margin: 0 100px 0 100px;
+
+}
+.my-intro{
+  width: 400px;
+  height: 200px;
+  font-family: 'Montserrat', sans-serif;
+  margin:30px;
+  text-align: center;
+
+}
+.new-challenges{
+  font-family: 'Montserrat', sans-serif;
+  color: #4cd3c2;
+}
+.experience{
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+  padding: 10px;
+
+}
+.opr{
+  font-size: 20px;
+  padding: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+.my-experience{
+  background-color:#bae5e5;
+}
+#Education{
+  padding: 7% 15%;
+  background-color:#4cd3c2 ;
+  position: relative;
+  z-index: 1;
+}
+.my-education {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+.masters-degree {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.bth-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.bachelors-degree {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.jntuk-image {
+  width: 30%;
+  float: left;
+
+}
+#footer{
+  padding: 7% 15%;
+  background-color: black;
+  text-align: center;
+  padding: 20px 20px;
+  margin-top:40px;
+}
+
+.social-icon{
+  margin:20px 10px;
+  color: #fff;
+}
+.copyright{
+  color:#fff;
+}
